@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "typescript-prac",
+    "slug": "typescript-prac",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.anonymous.typescript-prac"
+    },
+    "android": {
+      "package": "com.anonymous.typescriptprac"
+    }
+  }
+}
