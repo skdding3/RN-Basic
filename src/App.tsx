@@ -18,7 +18,7 @@ function Home({ navigation }) {
 function Detail({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={{ fontSize: 30 }}>클라이밍!!!!!!🧗🧗🧗🧗</Text>
+      <Text style={{ fontSize: 30 }}>클라이밍!!!!!!!🧗🧗🧗🧗</Text>
       <Button title="뒤로가기" onPress={() => navigation.navigate("Main")} />
     </View>
   );
