@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "typescript-prac",
-    "slug": "typescript-prac",
+    "name": "5cle",
+    "slug": "5cle",
     "version": "1.0.0",
     "sdkVersion": "48.0.0",
     "platforms": [
@@ -10,10 +10,10 @@
       "web"
     ],
     "ios": {
-      "bundleIdentifier": "com.anonymous.typescript-prac"
+      "bundleIdentifier": "undefined"
     },
     "android": {
-      "package": "com.anonymous.typescriptprac"
+      "package": "undefined"
     }
   }
 }
